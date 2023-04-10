@@ -1,0 +1,2 @@
+torch>=1.9.0
+mit_semseg @ git+https://github.com/CSAILVision/semantic-segmentation-pytorch@master#egg=mit_semseg

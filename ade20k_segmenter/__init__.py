@@ -1,0 +1,1 @@
+from .segmentation_module import ADE20KSegmenter

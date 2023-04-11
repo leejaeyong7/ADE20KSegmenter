@@ -5,7 +5,7 @@ The license for the model and the weights are entirely attributed to the origina
 
 # Installation
 ```bash
-pip install git+http//github.com/leejaeyong7/ADE20KSegmenter
+pip install git+http://github.com/leejaeyong7/ADE20KSegmenter
 ```
 
 # Example Usage
